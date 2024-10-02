@@ -4,3 +4,4 @@ langgraph
 langserve[all] 
 langchain_google_genai
 python-dotenv
+langsmith
